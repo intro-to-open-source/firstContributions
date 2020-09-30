@@ -1,6 +1,6 @@
 
  
-   [Name]     [College/University]
+Fill out each line with the format: [Name] [College/University]
   
 1.
 2. 
