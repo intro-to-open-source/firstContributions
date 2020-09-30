@@ -39,7 +39,12 @@ git checkout -b first-contribution-repo
 
 ## STEP 4: Make necessary changes and commit those changes
 
-Now open Contributors.md file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open Contributors.md file in a text editor, add your name and College/University to it, in the format 
+
+```
+[Jane Doe] [University]
+Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+```
 
 ```
 git status
