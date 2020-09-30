@@ -8,6 +8,8 @@ Follow these steps to create your first contribution!
 
 ## PREREQUISITES
 
+Git, a Github account, and a Text Editor are required to complete this contribution, and is also a standard toolkit for contributing to most open source projects.
+
 - Git: https://git-scm.com/downloads
 
 - Github Account: https://github.com/join
