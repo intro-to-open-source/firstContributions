@@ -6,6 +6,18 @@ Inspired by https://github.com/firstcontributions/first-contributions, this repo
 Follow these steps to create your first contribution!
 
 
+## PREREQUISITES
+
+- Git: https://git-scm.com/downloads
+
+- Github Account: https://github.com/join
+
+- Text Editor: 
+  Examples include: 
+  - Sublime Text: https://www.sublimetext.com/3
+  - VSCode: https://code.visualstudio.com/download
+  - Notepad++: https://notepad-plus-plus.org/downloads/
+  
 ## STEP 1: Fork the Repository
 At the top right corner of this github repository, click the "Fork" button.
 
