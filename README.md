@@ -21,8 +21,11 @@ Git, a Github account, and a Text Editor are required to complete this contribut
   - Notepad++: https://notepad-plus-plus.org/downloads/
   
 - Sign up for Hacktoberfest!: https://hacktoberfest.digitalocean.com/
-  
 
+
+## Resources
+Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
+  
 
 
 ## STEP 1: Fork the Repository
@@ -60,15 +63,7 @@ cd <forked-repo>
 
 ## STEP 4: Create a branch
 
-Change to the repository directory on your computer (if you are not already there):
-
-```
-cd <forked-repo>
-```
-
-![Screenshot from 2020-09-30 11-58-40](https://user-images.githubusercontent.com/6632748/94822252-7111b980-03d0-11eb-95dc-6e90d1b9451d.png)
-
-Now create a branch using the git checkout command:
+Create a branch using the git checkout command:
 
 ```
 git checkout -b <your-new-branch-name>
@@ -148,6 +143,12 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 
 ![Screenshot from 2020-09-30 12-29-09](https://user-images.githubusercontent.com/6632748/94823378-c69a9600-03d1-11eb-8c82-0cab3c6d92c1.png)
 
+
+## NEXT STEPS: Contribute to more Projects!
+Here are some other beginner friendly GitHub Projects:
+1. https://github.com/twilio-labs/open-pixel-art
+2. https://goodfirstissues.com/
+3. https://firstcontributions.github.io/
 
 
 
