@@ -28,7 +28,7 @@ Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
   
 
 
-## STEP 1: Fork the Repository
+## STEP 1: Fork the Repository (this creates a personal copy of this project in your Github account)
 At the top right corner of this github repository, click the "Fork" button.
 
 ![Screenshot from 2020-10-01 10-14-33](https://user-images.githubusercontent.com/6632748/94820906-fa27f100-03ce-11eb-92b6-b440f4c56112.png)
@@ -37,7 +37,7 @@ At the top right corner of this github repository, click the "Fork" button.
 
 
 
-## STEP 2: Clone the Forked Repository
+## STEP 2: Clone the Forked Repository (this copies the project to your local machine)
 Go to the repository you just forked and clone it
 
 ```
@@ -82,8 +82,6 @@ Now open Contributors.md file in a text editor, add your name and College/Univer
 ```
 
 ![Screenshot from 2020-09-30 12-14-00](https://user-images.githubusercontent.com/6632748/94822586-d2398d00-03d0-11eb-8961-db3e556136b2.png)
-
-
 
 
 
