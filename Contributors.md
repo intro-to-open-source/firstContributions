@@ -2,7 +2,7 @@
  
 Fill out each line with the format: [Name] [College/University]
   
-1.
+1.[Vinamra] [RNS institute of technology]
 2. 
 3.
 4. 
