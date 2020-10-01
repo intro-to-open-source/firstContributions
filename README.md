@@ -20,6 +20,8 @@ Git, a Github account, and a Text Editor are required to complete this contribut
   - VSCode: https://code.visualstudio.com/download
   - Notepad++: https://notepad-plus-plus.org/downloads/
   
+- Sign up for Hacktoberfest!: https://hacktoberfest.digitalocean.com/
+  
 
 
 
