@@ -2,7 +2,7 @@
  
 Fill out each line with the format: [Name] [College/University]
   
-1.
+1. [Rashan Smith] [Skidmore College]
 2. 
 3.
 4. 
