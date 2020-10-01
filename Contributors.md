@@ -1,16 +1,16 @@
 
- 
+
 Fill out each line with the format: [Name] [College/University]
-  
+
 1. [Rashan Smith] [Skidmore College]
-2. 
+2. [Autumn Davis][Fayetteville State University]
 3.
-4. 
+4.
 5.
-6. 
-7. 
-8. 
-9. 
+6.
+7.
+8.
+9.
 10.
 11.
 12.
@@ -21,7 +21,7 @@ Fill out each line with the format: [Name] [College/University]
 17.
 18.
 19.
-20. 
+20.
 21.
 22.
 23.
@@ -62,4 +62,3 @@ Fill out each line with the format: [Name] [College/University]
 58.
 59.
 60.
-
