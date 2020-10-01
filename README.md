@@ -45,8 +45,20 @@ git clone <forked-repo-url>
 
 
 
+## STEP 3: Go into the repository folder on your machine
 
-## STEP 3: Create a branch
+Change to the repository directory on your computer (if you are not already there):
+
+```
+cd <forked-repo>
+```
+
+![Screenshot from 2020-09-30 11-58-40](https://user-images.githubusercontent.com/6632748/94831432-b89d4300-03da-11eb-9de5-9b7030cae539.png)
+
+
+
+
+## STEP 4: Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -66,7 +78,7 @@ git checkout -b <your-new-branch-name>
 
 
 
-## STEP 4: Make necessary changes and commit those changes
+## STEP 5: Add your name to Contributors.md and commit those changes
 
 Now open Contributors.md file in a text editor, add your name and College/University to it, in the format 
 
@@ -78,8 +90,10 @@ Now open Contributors.md file in a text editor, add your name and College/Univer
 
 
 
-Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
+
+
+## STEP 6: Commit your changes
 
 ```
 git status
@@ -107,8 +121,6 @@ git add .
 
 
 
-
-
 Now commit those changes using the git commit command:
 
 ```
@@ -119,7 +131,7 @@ git commit -m "Add <your-name> to Contributors list"
 ![Screenshot from 2020-09-30 12-20-47](https://user-images.githubusercontent.com/6632748/94823158-8affcc00-03d1-11eb-8528-14cdae611425.png)
 
 
-## STEP 5: Push your changes to your forked repository
+## STEP 7: Push your changes to your forked repository
 
 ```
 git push origin <name-of-branch>
@@ -128,7 +140,7 @@ git push origin <name-of-branch>
 ![Screenshot from 2020-09-30 12-25-32](https://user-images.githubusercontent.com/6632748/94823287-aff43f00-03d1-11eb-95d1-7c05cc19f6c9.png)
 
 
-## STEP 5: Submit your changes for review
+## STEP 8: Submit your changes for review with a Pull Request
 
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 
