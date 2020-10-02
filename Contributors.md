@@ -4,7 +4,7 @@ Fill out each line with the format: [Name] [College/University]
 
 1. [Rashan Smith] [Skidmore College]
 2. [Autumn Davis][Fayetteville State University]
-3.
+3. [Kuber Varshney][The LNM Institute of Information Technology]
 4.
 5.
 6.
